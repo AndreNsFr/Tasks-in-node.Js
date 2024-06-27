@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2",
+    "typescipt": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.2"
+  },
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "projeto simples em express, o intuito é criar uma todo lsit",
+  "main": "index.ts",
+  "author": "André (eu mesmo :D )",
+  "license": "MIT"
+}
